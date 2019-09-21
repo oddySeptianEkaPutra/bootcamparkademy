@@ -1,6 +1,7 @@
 
-#1 Json digunakan untuk mengirim dan mengambil data dari web server ke clien side atau sebaliknya
-#6 Halaman depan website
+#1 Json digunakan untuk mengirim dan mengambil data dari web server ke clien side atau sebaliknya.
+#6
+Halaman depan website
 ![index](https://user-images.githubusercontent.com/55568320/65370942-91208000-dc88-11e9-8a1a-a764cc624ee1.PNG)
 
 Halaman Add Data User
